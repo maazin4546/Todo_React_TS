@@ -1,6 +1,6 @@
 import AddtoDo from "./components/addtodo";
 import Navbar from "./components/Navbar";
-import Todos from "./components/Todos";
+import Todos from "./components/todos";
 import "./App.css";
 
 const App = () => {
